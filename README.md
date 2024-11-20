@@ -142,13 +142,13 @@
 
 
 ### 기능 명세서
-  ![image](/uploads/9944cf5cadf857f0f9d515a03e472f56/image.png)
-  ![image](/uploads/8045ec2e0d8047806adc54580de6e4c1/image.png)
-  ![image](/uploads/520de19e9ab5400acf7595bcc2940545/image.png)
-  ![image](/uploads/637ad7b772b710daab0ad2d2dcb27419/image.png)
-  ![image](/uploads/9f6fafd13513ce770a8628d309d64294/image.png)
-  ![image](/uploads/c7df263c75a24cd626eff9291717eb25/image.png)
-  ![image](/uploads/d1b6582cf0cc03e4123a2ca8943a656d/image.png)
+  ![image](./imgs/기능명세서1.png)
+  ![image](./imgs/기능명세서2.png)
+  ![image](./imgs/기능명세서3.png)
+  ![image](./imgs/기능명세서4.png)
+  ![image](./imgs/기능명세서5.png)
+  ![image](./imgs/기능명세서6.png)
+  ![image](./imgs/기능명세서7.png)
   
 
 ### 부모 페이지 필수 기능
@@ -173,12 +173,12 @@
 
 
 ## :sparkles: 시연
-  ![login](/uploads/e5e48345b69d7fb3ff8fc1b619ba8862/login.gif)  
-  ![아이정보_등록](/uploads/9c95745f6d2c3f5f7941c2884b6d5526/아이정보_등록.gif)  
-  ![3](/uploads/53ed74b2eafff58d6ad26dbf207674f9/3.gif)  
-  ![4](/uploads/0efc85dd76c9662eac43420193ec7e43/4.gif)
-  ![5](/uploads/7c032a197510ce292a7591aed3433c4e/5.gif)
-  ![6](/uploads/3dc21005d231b2213616fa8f4914abdf/6.gif)  
+  ![login](./imgs/시연1.gif)  
+  ![아이정보_등록](./imgs/시연2.gif)  
+  ![3](./imgs/시연3.gif)  
+  ![4](./imgs/시연4.gif)
+  ![5](./imgs/시연5.gif)
+  ![6](./imgs/시연6.gif)  
 
 
 
@@ -198,7 +198,7 @@
 
 
 #### 	Architecture 설계도
-  ![image](/uploads/1d931e94c799a657fb6884868bd1a656/image.png)
+  ![image](./imgs/시스템아키텍쳐.png)
 
 
 
@@ -211,12 +211,12 @@
 
 
 ### API 명세서
-  ![image](/uploads/7d4142673253cfbaf21490d9ad4089d8/image.png)
-  ![image](/uploads/51f1d6e2b272a52086d56dfaf9ae46d7/image.png)
-  ![image](/uploads/ad6fb16832080318f86118e0dc661bbb/image.png)
+  ![image](./imgs/API명세서1.png)
+  ![image](./imgs/API명세서2.png)
+  ![image](./imgs/API명세서3.png)
 
 ### ERD
-  ![inMind](/uploads/dc032ffc6907f16cd351d1b3b03852b1/inMind.png)
+  ![inMind](./imgs/ERD.png)
 
 
 ### AI 명세서
